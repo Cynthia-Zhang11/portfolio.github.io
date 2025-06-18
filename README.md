@@ -1,4 +1,4 @@
-# Yue (Cynthia) Zhang
+# Name
 
 Data Analyst | SQL & Power BI Enthusiast | Exploring Python for Data Insights
 Passionate about turning data into actionable insights. Currently building projects to sharpen skills and solve real-world problems. Always eager to learn and collaborate!
